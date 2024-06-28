@@ -1,0 +1,15 @@
+Aarav		A	14	9	85
+Bhavya	B	15	10	78
+Chirag	C	12	7	92
+Divya		A	16	11	90
+Esha		B	13	8	81
+Farhan	C	14	9	87
+Gauri		A	15	10	79
+Hrishikesh	B	12	7	93
+Ishaan	C	16	11	91
+Jhanvi	A	13	8	80
+Kunal		B	14	9	88
+Lavanya	C	15	10	76
+Manish	A	12	7	94
+Nisha		B	16	11	89
+Omkar		C	13	8	82
