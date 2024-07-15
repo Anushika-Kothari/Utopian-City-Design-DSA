@@ -24,5 +24,5 @@ all citizens and all stakeholders involved.The framework includes but is not lim
 • Promotes a healthy lifestyle.
 • Comprehensive education system.
 
-![fun1 ](Screenshot (444).png)
+![fun1](Screenshot (444).png)
 
