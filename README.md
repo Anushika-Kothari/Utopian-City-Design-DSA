@@ -1,5 +1,3 @@
----
-
 # 🌆 Utopian City Design Project
 
 ## 📜 Problem Statement
@@ -54,5 +52,3 @@ The City of Utopia aims to be a model of future urban development, where every a
 ## 🌍 Conclusion
 
 This project illustrates the potential of **Data Structures and Algorithms** in designing a utopian city. By focusing on optimization and efficiency, we can build a city that not only meets the needs of its citizens today but is also resilient and adaptable to future challenges.
-
----
